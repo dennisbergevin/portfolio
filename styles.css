@@ -208,7 +208,7 @@
   }
   
   .title {
-    color: grey;
+    color: var(--main-black);
     font-size: 18px;
   }
 
