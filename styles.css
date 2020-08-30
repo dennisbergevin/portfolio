@@ -1,4 +1,4 @@
-:root {
+B :root {
   --main-white: #ffffff;
   --main-black: #111111;
   --main-gray: #c5c5c5;
@@ -267,16 +267,16 @@ img {
 button {
   outline: 0;
   display: inline-block;
-  padding: 3px;
+  padding: 8px;
   text-align: center;
   cursor: pointer;
-  width: 60%;
+  width: 40%;
   font-family: "IM Fell DW Pica SC", serif;
   font-size: 18px;
 }
 
 button:hover {
-  color: #ff0000;
+  color: #000000;
 }
 
 @media (max-width: 30.625em) {
