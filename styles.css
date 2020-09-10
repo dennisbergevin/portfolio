@@ -185,10 +185,8 @@ img {
 
 .about-card {
   border-radius: 4px;
-  min-width: 21em;
-  min-height: 21em;
-  max-width: 21em;
-  max-height: 21em;
+  min-width: 18em;
+  max-width: 18em;
   margin: auto;
   text-align: center;
   background-color: #ffffff;
